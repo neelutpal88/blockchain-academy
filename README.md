@@ -27,7 +27,7 @@ The TokenizedStudentLoans smart contract is designed to modernize and streamline
 Contract Address
 Once deployed, the contract will have a unique address on the Ethereum network. For example purposes, use the following placeholder:
 
-Contract Address: 0x1234567890abcdef1234567890abcdef12345678
+Contract Address: 0xBfA1469CDc317bFcFbEC1EacEcc8640F98f319e9
 Future Scope
 1-Dynamic Interest Rates: Implement functionality to adjust interest rates dynamically based on market conditions.
 2-Loan Tokenization: Integrate ERC-20 or ERC-721 standards for creating tradable tokens representing loans.
