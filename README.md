@@ -37,9 +37,12 @@ Future Scope
 Contact Details
 For any inquiries or further information, please contact:
 
-Name: Nilutpal Talukdar
+Name: Nilutpal Talukdar 
+<br>
 Email: nilutpaltalukdar26@gmail.com
+<br>
 GitHub: https://github.com/neelutpal88
+<br>
 Twitter:-@talukd6talukdar
 Certainly! Here's a concise README file for the `TokenizedStudentLoans` project, including sections for vision, flowchart, contract address, future scope, and contact details.
 
